@@ -1,0 +1,15 @@
+{
+  "dataSource": "komoot-export",
+  "fetchLimit": 30,
+  "stateFile": ".hikingappthing-state.json",
+  "render": {
+    "width": 90,
+    "height": 26,
+    "routeColorAnsi": "38;2;255;165;0",
+    "backgroundProfile": "dark-purple"
+  },
+  "komootExport": {
+    "exportsDir": "komoot-exports",
+    "recursive": false
+  }
+}
